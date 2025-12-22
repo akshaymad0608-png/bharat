@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ConvertBharat",
+  "description": "A high-converting, professional file conversion platform for Indian and global users, featuring secure processing and AI-powered file insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
